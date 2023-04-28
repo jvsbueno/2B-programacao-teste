@@ -29,7 +29,7 @@ body {
     width: 25%;
 }
 
-.turma {
+#turma {
     background-image: linear-gradient(#081767, #607538);
     color:white;
     display: flex;
@@ -68,7 +68,7 @@ body {
     grid-template-columns: 20% 20% 20% 20%;
 }
 
-.estudante {
+#estudante {
     background-image: linear-gradient(#607538,#081767);
     color:white;
 }
