@@ -72,3 +72,10 @@ body {
     background-image: linear-gradient(#607538,#081767);
     color:white;
 }
+
+.footer {
+    background-color: #081767;
+    color:white;
+    text-align: center;
+
+}
